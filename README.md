@@ -37,10 +37,6 @@ Shows proportion of spending in each category like Rent, Groceries, Entertainmen
 📌 Monthly Spending Breakdown (Bar Chart)
 
 Displays stacked bars for each month, showing category-wise expense levels.
-## 
-🌐 Live Dashboard Link
-- <a herf="https://public.tableau.com/app/profile/aditi.singh4102/viz/personal_finance_tracker_dashboard/Story1?publish=yes">Project dashboard</a>
-- <a herf="https://github.com/aditisingh369/personal_finance_tracker-/blob/main/data_sheet.xls">Dataset</a> 
 
 ##  ✅ Outcome
 A functional finance tracker that allows users to understand:
